@@ -1,0 +1,1 @@
+{\n  \"name\": \"roomi-rent-backend\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Backend for Roomi Rent\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"author\": \"mirazam034593-source\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"mongoose\": \"^5.10.9\"\n  }\n}
